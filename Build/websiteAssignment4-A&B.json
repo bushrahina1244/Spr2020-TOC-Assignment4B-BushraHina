@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "HummingBird",
+"productVersion": "0.1",
+"dataUrl": "websiteAssignment4-A&B.data.unityweb",
+"wasmCodeUrl": "websiteAssignment4-A&B.wasm.code.unityweb",
+"wasmFrameworkUrl": "websiteAssignment4-A&B.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#2F4343",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.12f1"
+}
